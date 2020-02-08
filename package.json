@@ -1,0 +1,24 @@
+{
+  "name": "unit9-homework-profilegenerator",
+  "version": "1.0.0",
+  "description": "Generates a pdf profile based on Github info and answers to prompts.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kacox1251/unit9-homework-profilegenerator.git"
+  },
+  "author": "Krystal Cox",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kacox1251/unit9-homework-profilegenerator/issues"
+  },
+  "homepage": "https://github.com/kacox1251/unit9-homework-profilegenerator#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "file-system": "^2.2.2",
+    "inquirer": "^7.0.4"
+  }
+}
