@@ -18,7 +18,10 @@
   "homepage": "https://github.com/kacox1251/unit9-homework-profilegenerator#readme",
   "dependencies": {
     "axios": "^0.19.2",
+    "electron": "^5.0.12",
+    "electron-html-to": "^2.6.0",
     "file-system": "^2.2.2",
-    "inquirer": "^7.0.4"
+    "inquirer": "^7.0.4",
+    "open": "^7.0.2"
   }
 }
