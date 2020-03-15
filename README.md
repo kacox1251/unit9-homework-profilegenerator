@@ -7,7 +7,7 @@ This is an app that dynamically generates a PDF profile from your Github usernam
 
 ## Installation
 
-In order to install this project follow the Github link to https://github.com/kacox1251/unit11-homework-notetaker and fork the project. After that clone the repository through your Git Bash. To do that type 'git clone" and paste the HTML link inside your terminal, it will ask you for your github password. After the repository is saved in the directory of your choice you can access the HTML and CSS files and view them in your default browser.
+In order to install this project follow the Github link to https://github.com/kacox1251/unit9-homework-profilegenerator and fork the project. After that clone the repository through your Git Bash. To do that type 'git clone" and paste the HTML link inside your terminal, it will ask you for your github password. After the repository is saved in the directory of your choice you can access the files and interact with them.
 You can also download as a zip file by clicking "Download zip" in the "Clone or Download" dropdown.
 
 
